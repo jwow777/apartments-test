@@ -1,0 +1,33 @@
+.header {
+  max-width: 1024px;
+  margin: auto;
+  padding: 20px;
+}
+
+.header__logo-block {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header__logo-image {
+  display: block;
+  height: 60px;
+  object-fit: cover;
+  filter: brightness(0);
+}
+
+.header__logo-title {
+  font-size: 30px;
+  margin: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .header__logo-image {
+    height: 40px;
+  }
+
+  .header__logo-title {
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "ЖК «Лето»",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/787013/2a000001742f81ba0cea1eb74be9581fcf8f/realty_large"
+  },
+  {
+    "id": 2,
+    "title": "Квартал Булгаковский парк",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/1540742/2a000001775d52d25b34295ccd2923c1913d/realty_large"
+  },
+  {
+    "id": 3,
+    "title": "Микрорайон «САЗ 2»",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/937147/2a00000162f76cabd402df7638734ae155e4/realty_large"
+  },
+  {
+    "id": 4,
+    "title": "ЖК на Блинова",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/787013/2a00000160a2eee1e410f4261fc77b56078d/realty_large"
+  },
+  {
+    "id": 5,
+    "title": "ЖК на Топольчанской",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/1030388/2a000001660b35adaf87102d1805fe16f32f/realty_large"
+  },
+  {
+    "id": 6,
+    "title": "ЖК «Изумрудный»",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/787013/2a00000160a130b0f873526b09e8f8f996c0/realty_large"
+  },
+  {
+    "id": 7,
+    "title": "ЖК «Авиатор»",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/937147/2a00000160944a3cd563b4642b5fb04225a8/realty_large"
+  },
+  {
+    "id": 8,
+    "title": "ЖК «Арбековская застава»",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/937147/2a000001722bf355d04970a3a525df402a5f/realty_large"
+  },
+  {
+    "id": 9,
+    "title": "ЖК Supernova",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/1540742/2a0000017a1f353093b094359837b9ba5ac2/realty_large"
+  },
+  {
+    "id": 10,
+    "title": "ЖК «Второе дыхание»",
+    "imageLink": "https://avatars.mds.yandex.net/get-verba/997355/2a0000017236c24918c6895bca763804722c/realty_large"
+  }
+]
