@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/apartments-test/static/css/main.7db44c2f.chunk.css",
+    "main.js": "/apartments-test/static/js/main.9fe683b6.chunk.js",
+    "main.js.map": "/apartments-test/static/js/main.9fe683b6.chunk.js.map",
+    "runtime-main.js": "/apartments-test/static/js/runtime-main.631e5656.js",
+    "runtime-main.js.map": "/apartments-test/static/js/runtime-main.631e5656.js.map",
+    "static/js/2.ba5d1f30.chunk.js": "/apartments-test/static/js/2.ba5d1f30.chunk.js",
+    "static/js/2.ba5d1f30.chunk.js.map": "/apartments-test/static/js/2.ba5d1f30.chunk.js.map",
+    "static/js/3.d2e6a10d.chunk.js": "/apartments-test/static/js/3.d2e6a10d.chunk.js",
+    "static/js/3.d2e6a10d.chunk.js.map": "/apartments-test/static/js/3.d2e6a10d.chunk.js.map",
+    "index.html": "/apartments-test/index.html",
+    "static/css/main.7db44c2f.chunk.css.map": "/apartments-test/static/css/main.7db44c2f.chunk.css.map",
+    "static/js/2.ba5d1f30.chunk.js.LICENSE.txt": "/apartments-test/static/js/2.ba5d1f30.chunk.js.LICENSE.txt",
+    "static/media/Card.css": "/apartments-test/static/media/unlike.20e4d88a.svg",
+    "static/media/logo.0bf55d46.png": "/apartments-test/static/media/logo.0bf55d46.png",
+    "static/media/no-image.b45113fd.png": "/apartments-test/static/media/no-image.b45113fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.631e5656.js",
+    "static/js/2.ba5d1f30.chunk.js",
+    "static/css/main.7db44c2f.chunk.css",
+    "static/js/main.9fe683b6.chunk.js"
+  ]
+}
